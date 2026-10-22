@@ -1,2 +1,5 @@
 out/
 *.log
+
+# Separate Git repository used for the bisect exercise
+/regression-demo/
